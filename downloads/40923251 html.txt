@@ -1,5 +1,4 @@
 <h3>40923251</h3>
-<h1>Final Project</h1>
 <p>Final Project 佔學期成績 40%</p>
 <p><span style="background-color: #ffff99;">2a 與 2b 必須在 2022.01.06 上課之前完成 Final Project</span></p>
 <p><a href="https://github.com/mdecourse/cad2021/discussions/8">Final Project 具體項目成果回報區</a>將於 2021.12.09 開啟, 於 <span style="background-color: #ff99cc;">2022.01.05 22:00 關閉</span></p>
@@ -9,27 +8,20 @@
 <p></p>
 <p>1/6期末考</p>
 <p>零件檔案:<a href="https://drive.google.com/drive/folders/1Ov7HlBCszswRPcA2EF5fuVBkEoXNjbBO?usp=sharing" title="期末考零件檔案">https://drive.google.com/drive/folders/1Ov7HlBCszswRPcA2EF5fuVBkEoXNjbBO?usp=sharing</a></p>
-<p><span>馬達驅動Jansen's linkage零件影片(youtubr)</span><br><iframe width="560" height="314" allowfullscreen="allowfullscreen" src="//www.youtube.com/embed/Upo60tW39Hg"></iframe></p>
-<p><span>馬達驅動Jansen's linkage coppeliasim影片(youtubr)</span></p>
+<p><span>馬達驅動Jansen's linkage零件影片(youtube)</span><br><iframe width="560" height="314" allowfullscreen="allowfullscreen" src="//www.youtube.com/embed/Upo60tW39Hg"></iframe></p>
+<p><span>馬達驅動Jansen's linkage coppeliasim影片(youtube)</span></p>
 <p><iframe width="560" height="314" allowfullscreen="allowfullscreen" src="//www.youtube.com/embed/IiKxFhFhB-8"></iframe></p>
-<p><strong><span>期末考第一題延伸:</span></strong></p>
-<p><strong><span>組合Jansen's linkage延伸影片(youtube):</span></strong></p>
-<p><strong><span></span></strong></p>
-<div class="winkVideoContainerClass">
-<div class="winkVideoControlBarClass"><button class="winkVideoControlBarPlayButtonClass"></button> <button class="winkVideoControlBarPauseButtonClass"></button>
-<div class="winkVideoControlBarProgressRightClass"><iframe width="560" height="314" src="//www.youtube.com/embed/6g4EtvxpZMs" allowfullscreen="allowfullscreen"></iframe></div>
-<div class="winkVideoControlBarProgressFilledMiddleClass"></div>
-<div class="winkVideoControlBarProgressThumbClass"></div>
-</div>
-<div class="winkVideoPlayOverlayClass"></div>
-</div>
+<p>期末考第一題延伸:</p>
+<p>組合Jansen's linkage延伸影片(youtube):</p>
+<p><iframe width="560" height="314" allowfullscreen="allowfullscreen" src="//www.youtube.com/embed/6g4EtvxpZMs"></iframe></p>
+<p></p>
 <p>1/13期末考</p>
 <p>mearm手臂調換組合圖</p>
 <p><a href="https://drive.google.com/drive/folders/1PZNIlq1110pGDcvD3c7nQRqAF6Wj52X3?usp=sharing">final project stage 2 零件組合檔</a></p>
 <p><a href="https://drive.google.com/file/d/1I6G1BcoWUSwLnw2gfCbYiWbMRbAaw_-4/view?usp=sharing">final project stage2 coppeliasim檔案</a></p>
 <p><img caption="false" height="677" src="https://40923251.github.io/cad2021_hw/images/987654.png" width="1132"></p>
 <p>mearm coppeliasim video:</p>
-<p><iframe width="560" height="314" src="//www.youtube.com/embed/svPGlAwPtGQ" allowfullscreen="allowfullscreen"></iframe></p>
+<p><iframe width="560" height="314" allowfullscreen="allowfullscreen" src="//www.youtube.com/embed/svPGlAwPtGQ"></iframe></p>
 <script>// <![CDATA[
 var winkVideoData = {
   dataVersion: 1,
@@ -61,7 +53,7 @@ var winkVideoData = {
 <p><span><img alt="Solidworks vs Siemens NX vs Onshape Best CAD Review 2020 &mdash; Joshua Flowers" src="https://images.squarespace-cdn.com/content/v1/5117056fe4b0a31c03600231/1550020150607-TO5VSYQHPENJ1T8JR9ZI/siemens+logo.jpg"></span></p>
 <p><span>SolidWorks</span></p>
 <p><span>SolidWorks&nbsp;是一套機械设计自動化軟件，採用用戶熟悉的&nbsp;Windows 圖形界面，操作簡便、易學易用，被廣泛應用于機械、汽車和航空等领域。 在&nbsp;SolidWorks&nbsp; 2020&nbsp; 中共有三大模塊，分别是零件、裝配和工程圖，其中&ldquo;零件&rdquo;模塊 中又包括草圖設計、零件設計、曲面設計、钣金設計及模具等小模塊。通過認識 SolidWorks&nbsp; 中的模塊，使用者可以快速地了解其主要功能。</span></p>
-<p><span><img alt="" height="143" src="/images/SolidWorks2020.png" width="529"></span></p>
+<p><span><img caption="false" height="143" src="https://40923251.github.io/cad2021_hw/images/SolidWorks2020.png" width="529"></span></p>
 <p><span></span></p>
 <div class="winkVideoControlBarProgressThumbClass"></div>
 </div>
@@ -78,7 +70,7 @@ var winkVideoData = {
 <p><span><span><img caption="false" height="206" src="https://40923251.github.io/cad2021_hw/images/wink03.png" width="366"></span></span></p>
 <p><span><span></span></span></p>
 <p>wink錄製影片</p>
-<p><iframe width="560" height="314" src="//www.youtube.com/embed/xN4kOlM8-D8" allowfullscreen="allowfullscreen"></iframe><img src="https://40923251.github.io/cad2021_hw/images/SolidWorks2020.png" alt="" width="529" height="143"></p>
+<p><iframe width="560" height="314" allowfullscreen="allowfullscreen" src="//www.youtube.com/embed/xN4kOlM8-D8"></iframe></p>
 <script>// <![CDATA[
 var winkVideoData = {
   dataVersion: 1,
