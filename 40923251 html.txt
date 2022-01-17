@@ -1,0 +1,100 @@
+<h3>40923251</h3>
+<p>Final Project 佔學期成績 40%</p>
+<p><span style="background-color: #ffff99;">2a 與 2b 必須在 2022.01.06 上課之前完成 Final Project</span></p>
+<p><a href="https://github.com/mdecourse/cad2021/discussions/8">Final Project 具體項目成果回報區</a>將於 2021.12.09 開啟, 於 <span style="background-color: #ff99cc;">2022.01.05 22:00 關閉</span></p>
+<p>彈性製造系統場景設計與製作</p>
+<p>請從 <a href="https://github.com/mdecourse/scenes">https://github.com/mdecourse/scenes</a> 與 <a href="https://github.com/mdecourse/models">https://github.com/mdecourse/models</a> 中選擇場景或模型, 配合 <a href="https://drive.google.com/file/d/1xb1Es8N-FxeG10OSnLNDwwi_tXyNTP9t/view?usp=sharing">cad2021_textbook.pdf</a> (登入 @gm 帳號後下載) 教材中的內容, 自選製作與組立產品, 組合成一個 Flexible Manufacturing System 系統場景.</p>
+<p>彈性製造系統內容說明</p>
+<p></p>
+<p>1/6期末考</p>
+<p>零件檔案:<a href="https://drive.google.com/drive/folders/1Ov7HlBCszswRPcA2EF5fuVBkEoXNjbBO?usp=sharing" title="期末考零件檔案">https://drive.google.com/drive/folders/1Ov7HlBCszswRPcA2EF5fuVBkEoXNjbBO?usp=sharing</a></p>
+<p><span>馬達驅動Jansen's linkage零件影片(youtubr)</span><br><iframe width="560" height="314" allowfullscreen="allowfullscreen" src="//www.youtube.com/embed/Upo60tW39Hg"></iframe></p>
+<p><span>馬達驅動Jansen's linkage coppeliasim影片(youtubr)</span></p>
+<p><iframe width="560" height="314" allowfullscreen="allowfullscreen" src="//www.youtube.com/embed/IiKxFhFhB-8"></iframe></p>
+<p><strong><span>期末考第一題延伸:</span></strong></p>
+<p><strong><span>組合Jansen's linkage延伸影片(youtube):</span></strong></p>
+<p><strong><span></span></strong></p>
+<div class="winkVideoContainerClass">
+<div class="winkVideoControlBarClass"><button class="winkVideoControlBarPlayButtonClass"></button> <button class="winkVideoControlBarPauseButtonClass"></button>
+<div class="winkVideoControlBarProgressRightClass"><iframe width="560" height="314" allowfullscreen="allowfullscreen" src="//www.youtube.com/embed/6g4EtvxpZMs"></iframe></div>
+<div class="winkVideoControlBarProgressFilledMiddleClass"></div>
+<div class="winkVideoControlBarProgressThumbClass"></div>
+</div>
+<div class="winkVideoPlayOverlayClass"></div>
+</div>
+<p>1/13期末考</p>
+<p>mearm手臂調換組合圖</p>
+<p><a href="https://drive.google.com/drive/folders/1PZNIlq1110pGDcvD3c7nQRqAF6Wj52X3?usp=sharing">final project stage 2 零件組合檔</a></p>
+<p><a href="https://drive.google.com/file/d/1I6G1BcoWUSwLnw2gfCbYiWbMRbAaw_-4/view?usp=sharing">final project stage2 coppeliasim檔案</a></p>
+<p><img caption="false" height="677" src="https://40923251.github.io/cad2021_hw/images/987654.png" width="1132"></p>
+<p>mearm coppeliasim video:</p>
+<p><iframe width="560" height="314" allowfullscreen="allowfullscreen" src="//www.youtube.com/embed/svPGlAwPtGQ"></iframe></p>
+<script>// <![CDATA[
+var winkVideoData = {
+  dataVersion: 1,
+  frameRate: 20,
+  buttonFrameLength: 10,
+  buttonFrameOffset: 5,
+  frameStops: {
+  },
+};
+// ]]></script>
+<div class="winkVideoContainerClass">
+<div class="winkVideoControlBarClass"><button class="winkVideoControlBarPlayButtonClass"></button> <button class="winkVideoControlBarPauseButtonClass"></button>
+<div class="winkVideoControlBarProgressLeftClass"></div>
+<div class="winkVideoControlBarProgressEmptyMiddleClass"></div>
+<div class="winkVideoControlBarProgressRightClass"></div>
+<div class="winkVideoControlBarProgressFilledMiddleClass"></div>
+<div class="winkVideoControlBarProgressThumbClass"></div>
+</div>
+<div class="winkVideoPlayOverlayClass"></div>
+</div>
+<p>學習心得:</p>
+<p><span>第一階段:之前就已經把零件畫完，組立的部分沒有遇到什麼問題。</span><br><span>第二階段:連趕機構已互換並組合完。</span><br><span>第三階段:匯入coppeliasim後遇到一些問題，希望能處理好。</span></p>
+<div class="container-fluid"><nav>
+<div id="tipue_search_content">
+<p>學會了如何使用solidworks和nx畫圖，以及使用coppeliasim使零件轉動和用wink錄製影片在使用coppeliasim時遇到必較多問題，像是組裝組不起來和如何使用dummy</p>
+<p><span>這學期分配到的cad軟體是nx跟Solidworks</span></p>
+<p><span>NX</span></p>
+<p><span>Siemens NX是集合CAD/CAM/CAE於一體的三維參數化產品設計軟體平台，該軟體系統提供了基於特徵的參數化設計、基於草圖的參數化設計以及基於裝配的參數化設計方法。其擁有強大的實體造型、曲面造型、虛擬裝配和工程圖設計能力，並具有良好的高階語言介面。</span>運用NX 12<span>提高生產力並加快產品工程速度。 最新版本的NX</span><span><span>&nbsp;</span>引入了新功能與增強的功能，以進行2D概念設計、自由曲面建模、特徵式建模、製圖與文件以及行業特定的設計。 ... 藉由新的預處理功能，可以在NX&nbsp;</span><span>CAE內執行完整的聲學分析工作流程，您也可以完全控制計算流體力學邊界層網格。</span></p>
+<p><span><img alt="Solidworks vs Siemens NX vs Onshape Best CAD Review 2020 &mdash; Joshua Flowers" src="https://images.squarespace-cdn.com/content/v1/5117056fe4b0a31c03600231/1550020150607-TO5VSYQHPENJ1T8JR9ZI/siemens+logo.jpg"></span></p>
+<p><span>SolidWorks</span></p>
+<p><span>SolidWorks&nbsp;是一套機械设计自動化軟件，採用用戶熟悉的&nbsp;Windows 圖形界面，操作簡便、易學易用，被廣泛應用于機械、汽車和航空等领域。 在&nbsp;SolidWorks&nbsp; 2020&nbsp; 中共有三大模塊，分别是零件、裝配和工程圖，其中&ldquo;零件&rdquo;模塊 中又包括草圖設計、零件設計、曲面設計、钣金設計及模具等小模塊。通過認識 SolidWorks&nbsp; 中的模塊，使用者可以快速地了解其主要功能。</span></p>
+<p><span><img alt="" height="143" src="/images/SolidWorks2020.png" width="529"></span></p>
+<p><span></span></p>
+<div class="winkVideoControlBarProgressThumbClass"></div>
+</div>
+<div class="winkVideoPlayOverlayClass"></div>
+</nav></div>
+<p><span>Google搜尋&nbsp;debugmode wink 並下載</span></p>
+<p><span></span></p>
+<p><span><img caption="false" height="206" src="https://40923251.github.io/cad2021_hw/images/wink01.png" width="366"></span></p>
+<p><span>下載3.0 wink</span></p>
+<p><span></span></p>
+<p><span><img caption="false" height="206" src="https://40923251.github.io/cad2021_hw/images/wink02.png" width="366"></span></p>
+<p><span>點開&nbsp;winksetup，按下&nbsp;I Agree，後<span>將資料存在&nbsp;</span><span>date&nbsp;裡的&nbsp;wink，最後&nbsp;Install&nbsp;就下載好了</span></span></p>
+<p><span><span></span></span></p>
+<p><span><span><img caption="false" height="206" src="https://40923251.github.io/cad2021_hw/images/wink03.png" width="366"></span></span></p>
+<p><span><span></span></span></p>
+<p>wink錄製影片</p>
+<p><iframe width="560" height="314" allowfullscreen="allowfullscreen" src="//www.youtube.com/embed/xN4kOlM8-D8"></iframe><img alt="" height="143" src="https://40923251.github.io/cad2021_hw/images/SolidWorks2020.png" width="529"></p>
+<script>// <![CDATA[
+var winkVideoData = {
+  dataVersion: 1,
+  frameRate: 20,
+  buttonFrameLength: 10,
+  buttonFrameOffset: 5,
+  frameStops: {
+  },
+};
+// ]]></script>
+<div class="winkVideoContainerClass">
+<div class="winkVideoControlBarClass"><button class="winkVideoControlBarPlayButtonClass"></button> <button class="winkVideoControlBarPauseButtonClass"></button>
+<div class="winkVideoControlBarProgressLeftClass"></div>
+<div class="winkVideoControlBarProgressLeftClass"></div>
+<div class="winkVideoControlBarProgressRightClass"></div>
+<div class="winkVideoControlBarProgressFilledMiddleClass"></div>
+<div class="winkVideoControlBarProgressThumbClass"></div>
+<div class="winkVideoPlayOverlayClass"></div>
+</div>
+</div>
