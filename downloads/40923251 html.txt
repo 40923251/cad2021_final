@@ -40,7 +40,7 @@ var winkVideoData = {
 <p>mearm手臂調換組合圖</p>
 <p><a href="https://drive.google.com/drive/folders/1PZNIlq1110pGDcvD3c7nQRqAF6Wj52X3?usp=sharing">final project stage 2 零件組合檔</a></p>
 <p><a href="https://drive.google.com/file/d/1I6G1BcoWUSwLnw2gfCbYiWbMRbAaw_-4/view?usp=sharing">final project stage2 coppeliasim檔案</a></p>
-<p><img alt="" height="677" src="/images/987654.png" width="1132"></p>
+<p><img caption="false" height="677" src="https://40923251.github.io/cad2021_hw/images/987654.png" width="1132"></p>
 <p>mearm coppeliasim wink video:</p>
 <p></p>
 <script>// <![CDATA[
@@ -84,13 +84,13 @@ var winkVideoData = {
 </nav></div>
 <p><span>Google搜尋&nbsp;debugmode wink 並下載</span></p>
 <p><span></span></p>
-<p><span><img alt="" height="206" src="/images/wink01.png" width="366"></span></p>
+<p><span><img caption="false" height="206" src="https://40923251.github.io/cad2021_hw/images/wink01.png" width="366"></span></p>
 <p><span>下載3.0 wink</span></p>
 <p><span></span></p>
-<p><span><img alt="" height="206" src="/images/wink02.png" width="366"></span></p>
+<p><span><img caption="false" height="206" src="https://40923251.github.io/cad2021_hw/images/wink02.png" width="366"></span></p>
 <p><span>點開&nbsp;winksetup，按下&nbsp;I Agree，後<span>將資料存在&nbsp;</span><span>date&nbsp;裡的&nbsp;wink，最後&nbsp;Install&nbsp;就下載好了</span></span></p>
 <p><span><span></span></span></p>
-<p><span><span><img alt="" height="206" src="/images/wink03.png" width="366"></span></span></p>
+<p><span><span><img caption="false" height="206" src="https://40923251.github.io/cad2021_hw/images/wink03.png" width="366"></span></span></p>
 <p><span><span></span></span></p>
 <p>wink錄製影片</p>
 <p></p>
